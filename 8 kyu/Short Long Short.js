@@ -63,7 +63,7 @@ ShortLongShort.solution("22", "1"); // returns "1221"
 
 3) clever: 13
 
-  cfunction solution(a, b){
+  function solution(a, b){
     return (a.length > b.length) ? b + a + b : a + b + a;
   }
 

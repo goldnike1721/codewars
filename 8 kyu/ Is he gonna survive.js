@@ -29,7 +29,6 @@ Return true if yes, false otherwise :)
     return (bullets / 2 >= dragons) ? true : false;
   }
 
-
 3) clever: 55
 
   const hero = (bullets, dragons) => dragons * 2 <= bullets;

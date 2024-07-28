@@ -17,6 +17,7 @@ clever: 0
 --- OTHER SOLUTIONS: ---
 
 1) clever: 820
+
   function booleanToString(b) {
     return `${b}`
   }
@@ -34,6 +35,7 @@ clever: 0
   }
 
 4) clever: 237
+
   function booleanToString(b) {
     return b+'';
   }

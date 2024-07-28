@@ -41,7 +41,7 @@ clever: 2
 
 3) clever: 36
 
-const strCount = (str, letter) => str.split(letter).length - 1;
+  const strCount = (str, letter) => str.split(letter).length - 1;
 
 4) clever: 32
 

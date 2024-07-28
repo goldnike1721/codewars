@@ -35,7 +35,6 @@ is an alligator (case-insensitive) return small otherwise return wide.
     return animal.toLowerCase() === 'alligator' ? 'small' : 'wide';
   }
 
-
 3) clever: == 3 === 2
 
   const mouthSize = animal => animal.toLowerCase() === 'alligator' ? 'small' : 'wide';

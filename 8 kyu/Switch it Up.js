@@ -61,7 +61,6 @@ Output :: "One".
     return ["Zero","One","Two","Three","Four","Five","Six","Seven","Eight","Nine"][n]
   }
 
-
 4) clever: 114
 
   function switchItUp(number){
